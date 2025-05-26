@@ -1,1 +1,2 @@
-olympus[0-9]{1,3}
+olympus88
+dewalangit77
