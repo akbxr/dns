@@ -1,0 +1,7 @@
+# Blacklist domain
+
+g22global.site
+jpdreal.xyz
+nixcentre.com
+pastijpmdk.site
+pentaku26.sbs
