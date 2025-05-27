@@ -1,2 +1,24 @@
-olympus88
+# Regexlist for domain blocklist
+
+# Pattern untuk mendeteksi domain judol dengan kata kunci umum
+# Mencocokkan domain yang mengandung kata seperti: bandar, bet, dewa, gacor, hoki, naga, raja, slot, zeus dengan kombinasi angka 1-3 digit sebelum atau sesudah kata kunci
+# Contoh domain yang akan terdeteksi:
+# - bandar123.com, slot88.net, dewa777.org
+# - 99toto.com, 888bet.net, 77raja.org
+# - gacor99slot.com, hokibandar88.net
+
+[a-zA-Z0-9]*(?:bandar|bet|bola|dewa|gacor|hoki|king|liga|raja|slot|suhu|togel|zeus)\d{1,3}[a-zA-Z0-9]*|[a-zA-Z0-9]*\d{1,3}(?:bandar|bet|bola|dewa|gacor|hoki|king|liga|raja|slot|suhu|togel|zeus)[a-zA-Z0-9]*
+
+# QQ100-999
+qq[1-9]\d{2}
+
+# Domain gambling spesifik yang diblokir secara eksplisit
+arab777
+arabcuan26
+cuanwin77
 dewalangit77
+ligahokie22
+ligajp99
+nagahoki88
+olympus88
+sabung88
