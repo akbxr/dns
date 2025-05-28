@@ -1,6 +1,7 @@
 # Blacklist domain
 
 g22global.site
+hartahuehue.space
 jpdreal.xyz
 nixcentre.com
 pastijpmdk.site
