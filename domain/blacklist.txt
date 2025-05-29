@@ -1,5 +1,10 @@
 # Blacklist domain
 
+#search engine judol
+cariaman.co
+carisini.co
+
+
 g22global.site
 hartahuehue.space
 jpdreal.xyz
