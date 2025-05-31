@@ -15,6 +15,7 @@ qq[1-9]\d{2}
 # Domain gambling spesifik yang diblokir secara eksplisit
 arab777
 arabcuan26
+arabcuan30
 bungakamboja
 cuanwin77
 deluna4d
@@ -22,7 +23,9 @@ dewalangit77
 hokidewa
 ligahokie22
 ligajp99
+lucky99
 nagahoki88
 olympus88
+polar777
 rusia777
 sabung88
