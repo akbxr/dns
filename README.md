@@ -1,6 +1,6 @@
 # DNS Pemblokir Judol, Iklan & Tracker
 
-<img width="1642" alt="Screenshot 2025-05-29 at 07 21 22" src="https://github.com/user-attachments/assets/2a43d60f-bb7f-49e8-90f4-b90997340514" />
+<img width="1382" height="751" alt="Screenshot 2026-04-01 at 14 40 41" src="https://github.com/user-attachments/assets/318dc6f6-bf47-4ef0-abbb-03d2271605fc" />
 
 DNS ini dirancang untuk meningkatkan privasi dan keamanan online dengan memblokir akses ke domain judi online (judol), situs dewasa, iklan, serta berbagai pelacak (tracking), telemetri, dan analitik.
 
