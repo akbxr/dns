@@ -30,7 +30,7 @@ dns.akbxr.com
 
 ### IPv4
 ~~~
-168.110.220.247
+34.171.234.178
 ~~~
 
 ## Sumber Daftar Blokir
